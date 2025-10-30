@@ -29,6 +29,9 @@ Internet → Azure Load Balancer → Public Subnet (MatterMost) → Private Subn
 
 ### Architecture Diagram
 
+<img width="522" height="410" alt="Screenshot 2025-10-29 at 8 40 38 PM" src="https://github.com/user-attachments/assets/49d68f24-e19e-4932-9462-4cff27330e0e" />
+
+
 <img width="706" height="576" alt="Screenshot 2025-10-29 at 6 52 55 PM" src="https://github.com/user-attachments/assets/7ea6069b-1b96-4129-b96a-f3f2e538036e" />
 
 
